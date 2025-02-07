@@ -1,8 +1,9 @@
 package fintech.driver;
 
 /**
- * @author NIM Nama
- * @author NIM Nama
+ * @author 12S23019 - Clarasia Simanjuntak
+ * @author 12S23043 - Grace Tiodora 
+ *
  */
 public class Driver2 {
 
